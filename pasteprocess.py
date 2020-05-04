@@ -14,7 +14,7 @@ def process(text, command):
     Custom commands
     '''
     print(f"text: {text}\ncommand: {command}")
-    if command=="solve":
+    if command=="eval":
         p.copy(eval(text))
 
     elif command=="captalize":
