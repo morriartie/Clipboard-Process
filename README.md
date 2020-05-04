@@ -5,16 +5,16 @@ With auto replace enabled, you type the text followed by the command anywhere in
 
 The process is defined by a "command" which should be written in the text after a defined separator (default: ##)
 
-###Examples:
+## Examples:
 
 1+1 ##solve
->> 2
+> 2
 
 Clipboard Process ##mirror
->> ssecorP draobpilC
+> ssecorP draobpilC
 
 replacing 'a' with 'u' ##a->u
->>replucing 'u' with 'u' 
+>replucing 'u' with 'u' 
 
 Thanks! ##sarcasmize
-ThAnKs!
+>ThAnKs!
