@@ -5,6 +5,8 @@ With auto replace enabled, you type the text followed by the command anywhere in
 
 The process is defined by a "command" which should be written in the text after a defined separator (default: ##)
 
+Add this script to a shortcut in your system. Type the 'text ##command' and press the shortcut
+
 ## Examples:
 
 1+1 ##solve
